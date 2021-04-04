@@ -154,12 +154,12 @@ function draw()
 
   stroke("black");
   textSize(20);
-  fill("black");
+  fill("white");
   text("Your Score:"+score,450,50);
 
   stroke("black");
   textSize(20);
-  fill("black");
+  fill("white");
   text("SurvivalTime:"+survivalTime,100,50);
   
   drawSprites();
